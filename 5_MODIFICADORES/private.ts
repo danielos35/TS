@@ -1,0 +1,1 @@
+// Private solo es axcesible desde el propio objeto
